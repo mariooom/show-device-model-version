@@ -6,6 +6,9 @@ A simple Flutter app that displays the device's model name and operating system.
 - Displays the device model name.
 - Displays the operating system version.
 - Supports both Android and iOS devices.
+## Package Used: 
+device_info_plus: ^11.2.2
+https://pub.dev/packages/device_info_plus
 
 ## Screenshots
 
